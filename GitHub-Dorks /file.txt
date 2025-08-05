@@ -1,7 +1,7 @@
 
 ###### GitHub Dorks List (For Security Research Only)
 
---- 
+---------
 
 ### 1. Sensitive Files
 filename:.env
@@ -15,7 +15,7 @@ filename:sftp-config.json
 filename:config.json
 filename:credentials.json
 
----
+-------
 
 ### 2. API Keys & Tokens
 api_key
